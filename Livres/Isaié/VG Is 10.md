@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 10
 - Isaïe 10
 - Is 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 10

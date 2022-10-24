@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 8
 - Jean 8
 - Jn 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 8

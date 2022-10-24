@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 12
 - Siracide 12
 - Si 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 12

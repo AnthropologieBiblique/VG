@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 4
 - Amos 4
 - Am 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Amos 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 18
 - Deutéronome 18
 - Dt 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 18

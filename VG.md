@@ -1,6 +1,7 @@
 ---
 tags : Bible, latin
 cssclass : latin
+direction : ltr
 ---
 # Vulgata Clementina
 

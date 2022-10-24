@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 4
 - Exode 4
 - Ex 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 4

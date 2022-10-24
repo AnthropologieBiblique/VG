@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuelis 20
 - 1 Samuel 20
 - 1 S 20
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Samuelis 20

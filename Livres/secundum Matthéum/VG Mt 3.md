@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 3
 - Matthieu 3
 - Mt 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 3

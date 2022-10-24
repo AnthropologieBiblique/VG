@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 8
 - Apocalypse 8
 - Ap 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 8

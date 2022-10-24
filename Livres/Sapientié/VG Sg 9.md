@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 9
 - Sagesse 9
 - Sg 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 9

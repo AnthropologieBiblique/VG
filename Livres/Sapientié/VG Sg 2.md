@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 2
 - Sagesse 2
 - Sg 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 15
 - Genèse 15
 - Gn 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 15

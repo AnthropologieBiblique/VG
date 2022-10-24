@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 25
 - Actes 25
 - Ac 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 25

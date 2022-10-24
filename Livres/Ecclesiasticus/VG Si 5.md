@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 5
 - Siracide 5
 - Si 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 5

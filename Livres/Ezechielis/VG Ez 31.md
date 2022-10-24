@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 31
 - Ézéchiel 31
 - Ez 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/31
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 31

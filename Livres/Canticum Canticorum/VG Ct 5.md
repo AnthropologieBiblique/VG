@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Canticum Canticorum 5
 - Cantique des cantiques 5
 - Ct 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Canticum Canticorum 5

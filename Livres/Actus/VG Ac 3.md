@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 3
 - Actes 3
 - Ac 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 3

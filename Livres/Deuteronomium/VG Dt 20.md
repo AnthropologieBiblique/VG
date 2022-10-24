@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 20
 - Deutéronome 20
 - Dt 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 20

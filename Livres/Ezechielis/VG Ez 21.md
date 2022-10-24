@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 21
 - Ézéchiel 21
 - Ez 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 21

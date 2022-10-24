@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 49
 - Siracide 49
 - Si 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/49
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 49

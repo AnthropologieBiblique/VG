@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Galatas 1
 - Galates 1
 - Ga 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Galatas 1

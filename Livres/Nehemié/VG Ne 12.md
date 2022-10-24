@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 12
 - Néhémie 12
 - Ne 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 12

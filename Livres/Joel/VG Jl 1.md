@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Joel 1
 - Joël 1
 - Jl 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Joel 1

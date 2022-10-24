@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 1
 - Sagesse 1
 - Sg 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 1

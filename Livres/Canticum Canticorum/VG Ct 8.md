@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Canticum Canticorum 8
 - Cantique des cantiques 8
 - Ct 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Canticum Canticorum 8

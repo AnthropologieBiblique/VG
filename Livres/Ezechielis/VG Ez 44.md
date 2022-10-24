@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 44
 - Ézéchiel 44
 - Ez 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/44
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 44

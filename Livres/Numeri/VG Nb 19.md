@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 19
 - Nombres 19
 - Nb 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 19

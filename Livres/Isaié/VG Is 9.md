@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 9
 - Isaïe 9
 - Is 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 9

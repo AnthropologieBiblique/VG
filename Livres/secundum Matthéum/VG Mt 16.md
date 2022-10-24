@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 16
 - Matthieu 16
 - Mt 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 16

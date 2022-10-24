@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 25
 - Isaïe 25
 - Is 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 25

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 22
 - Apocalypse 22
 - Ap 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 22

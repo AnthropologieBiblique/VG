@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 43
 - Genèse 43
 - Gn 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/43
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 43

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 13
 - Lévitique 13
 - Lv 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 13

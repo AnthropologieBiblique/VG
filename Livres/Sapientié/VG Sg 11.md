@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 11
 - Sagesse 11
 - Sg 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 11

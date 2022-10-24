@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 6
 - 1 Corinthiens 6
 - 1 Co 6
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 6

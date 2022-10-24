@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 14
 - Siracide 14
 - Si 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 14

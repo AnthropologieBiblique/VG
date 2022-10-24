@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 45
 - Ézéchiel 45
 - Ez 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/45
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 45

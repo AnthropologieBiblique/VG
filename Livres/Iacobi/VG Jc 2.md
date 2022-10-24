@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Iacobi 2
 - Jacques 2
 - Jc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Iacobi 2

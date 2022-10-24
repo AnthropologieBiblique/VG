@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 3
 - Nombres 3
 - Nb 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 24
 - Actes 24
 - Ac 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 24

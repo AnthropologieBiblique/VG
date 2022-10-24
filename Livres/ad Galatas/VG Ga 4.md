@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Galatas 4
 - Galates 4
 - Ga 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Galatas 4

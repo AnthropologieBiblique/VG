@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 10
 - Nombres 10
 - Nb 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 10

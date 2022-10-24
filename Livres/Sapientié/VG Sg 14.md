@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 14
 - Sagesse 14
 - Sg 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 14

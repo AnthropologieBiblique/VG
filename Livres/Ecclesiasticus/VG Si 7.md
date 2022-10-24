@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 7
 - Siracide 7
 - Si 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 13
 - Marc 13
 - Mc 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 13

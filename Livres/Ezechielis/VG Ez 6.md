@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 6
 - Ézéchiel 6
 - Ez 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 6

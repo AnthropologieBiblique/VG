@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 148
 - Psaumes 148
 - Ps 148
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/148
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 148

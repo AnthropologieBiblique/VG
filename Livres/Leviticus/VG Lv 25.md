@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 25
 - Lévitique 25
 - Lv 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 25

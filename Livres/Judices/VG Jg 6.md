@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 6
 - Juges 6
 - Jg 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 6

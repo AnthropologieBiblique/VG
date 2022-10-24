@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 11
 - 2 Chroniques 11
 - 2 Ch 11
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 11

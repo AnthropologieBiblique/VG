@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 ad Corinthios
 - 2 Corinthiens
 - 2 Co
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 ad Corinthios

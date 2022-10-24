@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 4
 - Hébreux 4
 - He 4
@@ -8,6 +8,7 @@ tags :
 - Bible/He/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 4

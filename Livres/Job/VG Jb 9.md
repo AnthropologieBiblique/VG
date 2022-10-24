@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 9
 - Job 9
 - Jb 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 9

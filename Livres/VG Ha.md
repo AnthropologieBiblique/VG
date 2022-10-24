@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Habacuc
 - Habaquq
 - Ha
@@ -8,6 +8,7 @@ tags :
 - Bible/Ha
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Habacuc

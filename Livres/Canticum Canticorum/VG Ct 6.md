@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Canticum Canticorum 6
 - Cantique des cantiques 6
 - Ct 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Canticum Canticorum 6

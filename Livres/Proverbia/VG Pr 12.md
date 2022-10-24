@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 12
 - Proverbes 12
 - Pr 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 12

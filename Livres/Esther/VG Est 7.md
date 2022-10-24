@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther 7
 - Esther 7
 - Est 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther 7

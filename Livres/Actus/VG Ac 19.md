@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 19
 - Actes 19
 - Ac 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 19

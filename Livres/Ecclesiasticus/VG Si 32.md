@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 32
 - Siracide 32
 - Si 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/32
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 32

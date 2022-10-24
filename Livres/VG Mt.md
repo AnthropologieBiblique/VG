@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum
 - Matthieu
 - Mt
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum

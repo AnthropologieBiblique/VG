@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 35
 - Siracide 35
 - Si 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/35
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 35

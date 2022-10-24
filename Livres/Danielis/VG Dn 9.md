@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 9
 - Daniel 9
 - Dn 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 9

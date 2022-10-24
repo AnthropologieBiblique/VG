@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuelis 11
 - 2 Samuel 11
 - 2 S 11
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Samuelis 11

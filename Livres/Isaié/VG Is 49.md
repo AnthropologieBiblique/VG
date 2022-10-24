@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 49
 - Isaïe 49
 - Is 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/49
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 49

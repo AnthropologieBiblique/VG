@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 18
 - Jérémie 18
 - Jr 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 18

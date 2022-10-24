@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 19
 - Matthieu 19
 - Mt 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 19

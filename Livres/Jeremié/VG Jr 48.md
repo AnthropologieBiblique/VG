@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 48
 - Jérémie 48
 - Jr 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/48
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 48

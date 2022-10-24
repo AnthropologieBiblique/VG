@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 14
 - Isaïe 14
 - Is 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 14

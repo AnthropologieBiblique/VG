@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 5
 - Psaumes 5
 - Ps 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 5

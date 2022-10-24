@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 149
 - Psaumes 149
 - Ps 149
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/149
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 149

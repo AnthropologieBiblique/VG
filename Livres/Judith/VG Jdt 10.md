@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 10
 - Judith 10
 - Jdt 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 10

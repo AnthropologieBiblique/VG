@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 2
 - Hébreux 2
 - He 2
@@ -8,6 +8,7 @@ tags :
 - Bible/He/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 2

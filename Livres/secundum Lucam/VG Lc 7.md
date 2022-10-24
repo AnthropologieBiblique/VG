@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 7
 - Luc 7
 - Lc 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 7

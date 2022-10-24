@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 2
 - Matthieu 2
 - Mt 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 2

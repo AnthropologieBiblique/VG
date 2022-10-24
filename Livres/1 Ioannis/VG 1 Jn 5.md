@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Ioannis 5
 - 1 Jean 5
 - 1 Jn 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Jn/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Ioannis 5

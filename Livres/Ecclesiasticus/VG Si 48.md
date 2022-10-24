@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 48
 - Siracide 48
 - Si 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/48
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 48

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 44
 - Siracide 44
 - Si 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/44
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 44

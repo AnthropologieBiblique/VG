@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 32
 - Deutéronome 32
 - Dt 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/32
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 32

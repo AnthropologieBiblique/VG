@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuelis 5
 - 2 Samuel 5
 - 2 S 5
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Samuelis 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 36
 - Nombres 36
 - Nb 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/36
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 36

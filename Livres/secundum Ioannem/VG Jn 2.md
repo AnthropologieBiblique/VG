@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 2
 - Jean 2
 - Jn 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 2

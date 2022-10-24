@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 30
 - Nombres 29
 - Nb 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/29
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 30

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 7
 - 1 Maccabees 7
 - 1 M 7
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 7

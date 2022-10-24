@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Ioannis
 - 3 Jean
 - 3 Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/3Jn
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Ioannis

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 39
 - Job 39
 - Jb 39
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/39
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 39

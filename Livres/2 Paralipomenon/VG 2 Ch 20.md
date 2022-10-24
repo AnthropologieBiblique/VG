@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 20
 - 2 Chroniques 20
 - 2 Ch 20
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 20

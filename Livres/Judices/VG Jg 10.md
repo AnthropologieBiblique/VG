@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 10
 - Juges 10
 - Jg 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 10

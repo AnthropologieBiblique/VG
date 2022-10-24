@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 27
 - Deutéronome 27
 - Dt 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 27

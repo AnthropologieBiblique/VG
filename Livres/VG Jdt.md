@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith
 - Judith
 - Jdt
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 ad Corinthios 13
 - 2 Corinthiens 13
 - 2 Co 13
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 ad Corinthios 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 28
 - Exode 28
 - Ex 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 28

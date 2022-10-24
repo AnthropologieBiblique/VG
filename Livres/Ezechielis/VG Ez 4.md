@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 4
 - Ézéchiel 4
 - Ez 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 4

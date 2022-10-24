@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 33
 - Exode 33
 - Ex 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/33
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 33

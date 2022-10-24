@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 41
 - Isaïe 41
 - Is 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/41
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 41

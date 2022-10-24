@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Philippenses
 - Philippiens
 - Ph
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Philippenses

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Joné 4
 - Jonas 4
 - Jon 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Joné 4

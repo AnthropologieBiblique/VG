@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 3
 - Luc 3
 - Lc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 3

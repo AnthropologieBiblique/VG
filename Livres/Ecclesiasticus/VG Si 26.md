@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 26
 - Siracide 26
 - Si 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 26

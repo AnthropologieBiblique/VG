@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 18
 - Ézéchiel 18
 - Ez 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 18

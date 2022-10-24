@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 15
 - 2 Chroniques 15
 - 2 Ch 15
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 15

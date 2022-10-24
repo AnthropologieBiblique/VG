@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 6
 - Hébreux 6
 - He 6
@@ -8,6 +8,7 @@ tags :
 - Bible/He/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 6

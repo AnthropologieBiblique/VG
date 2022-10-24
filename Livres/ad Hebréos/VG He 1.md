@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 1
 - Hébreux 1
 - He 1
@@ -8,6 +8,7 @@ tags :
 - Bible/He/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 1

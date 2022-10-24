@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 4
 - Marc 4
 - Mc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 4

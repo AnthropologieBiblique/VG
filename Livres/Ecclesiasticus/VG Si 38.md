@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 38
 - Siracide 38
 - Si 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/38
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 38

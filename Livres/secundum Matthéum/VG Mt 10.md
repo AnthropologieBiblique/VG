@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 10
 - Matthieu 10
 - Mt 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 10

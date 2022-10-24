@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 10
 - Lévitique 10
 - Lv 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 10

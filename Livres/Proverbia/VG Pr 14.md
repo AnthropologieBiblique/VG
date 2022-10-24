@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 14
 - Proverbes 14
 - Pr 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 14

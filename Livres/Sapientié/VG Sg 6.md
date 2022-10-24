@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 6
 - Sagesse 6
 - Sg 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 6

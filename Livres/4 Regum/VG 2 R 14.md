@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 4 Regum 14
 - 2 Rois 14
 - 2 R 14
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 4 Regum 14

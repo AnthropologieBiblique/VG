@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos
 - Amos
 - Am
@@ -7,6 +7,7 @@ tags :
 - Bible/Am
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Amos

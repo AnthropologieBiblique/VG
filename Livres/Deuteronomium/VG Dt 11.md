@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 11
 - Deutéronome 11
 - Dt 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 11

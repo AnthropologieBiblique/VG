@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 7
 - Romains 7
 - Rm 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 7

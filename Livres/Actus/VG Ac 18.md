@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 18
 - Actes 18
 - Ac 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 18

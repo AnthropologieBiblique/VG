@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 23
 - Lévitique 23
 - Lv 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 23

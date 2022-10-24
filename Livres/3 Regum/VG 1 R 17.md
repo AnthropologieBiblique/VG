@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 17
 - 1 Rois 17
 - 1 R 17
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 17

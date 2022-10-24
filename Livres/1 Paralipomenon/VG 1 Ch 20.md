@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 20
 - 1 Chroniques 20
 - 1 Ch 20
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 20

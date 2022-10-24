@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 5
 - Judith 5
 - Jdt 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 5

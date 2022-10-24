@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 32
 - 2 Chroniques 32
 - 2 Ch 32
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/32
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 32

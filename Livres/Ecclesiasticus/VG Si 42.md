@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 42
 - Siracide 42
 - Si 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/42
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 42

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 13
 - Isaïe 13
 - Is 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 13

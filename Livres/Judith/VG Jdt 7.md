@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 7
 - Judith 7
 - Jdt 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 7

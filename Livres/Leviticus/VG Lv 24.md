@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 24
 - Lévitique 24
 - Lv 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 24

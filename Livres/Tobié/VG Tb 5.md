@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 5
 - Tobie 5
 - Tb 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 5

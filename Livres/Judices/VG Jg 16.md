@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 16
 - Juges 16
 - Jg 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 16

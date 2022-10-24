@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 16
 - Actes 16
 - Ac 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 16

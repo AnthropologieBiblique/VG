@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 4
 - Genèse 4
 - Gn 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 4

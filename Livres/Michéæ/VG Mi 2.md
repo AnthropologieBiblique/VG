@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michéæ 2
 - Michée 2
 - Mi 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Michéæ 2

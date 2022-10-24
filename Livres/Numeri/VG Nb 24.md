@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 24
 - Nombres 24
 - Nb 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 24

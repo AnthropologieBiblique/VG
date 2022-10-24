@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 15
 - Siracide 15
 - Si 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 15

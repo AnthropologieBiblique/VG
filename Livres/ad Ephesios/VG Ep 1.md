@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Ephesios 1
 - Éphésiens 1
 - Ep 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Ephesios 1

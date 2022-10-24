@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 50
 - Isaïe 50
 - Is 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/50
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 50

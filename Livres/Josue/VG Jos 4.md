@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 4
 - Josué 4
 - Jos 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 4

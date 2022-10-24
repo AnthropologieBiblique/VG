@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 20
 - Juges 20
 - Jg 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 20

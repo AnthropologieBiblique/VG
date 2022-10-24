@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 2
 - Siracide 2
 - Si 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 2

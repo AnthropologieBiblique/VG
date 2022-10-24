@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 8
 - Hébreux 8
 - He 8
@@ -8,6 +8,7 @@ tags :
 - Bible/He/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 8

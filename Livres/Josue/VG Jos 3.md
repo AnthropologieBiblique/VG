@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 3
 - Josué 3
 - Jos 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 ad Corinthios 8
 - 2 Corinthiens 8
 - 2 Co 8
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 ad Corinthios 8

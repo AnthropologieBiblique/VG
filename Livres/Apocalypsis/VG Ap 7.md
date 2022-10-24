@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 7
 - Apocalypse 7
 - Ap 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 7

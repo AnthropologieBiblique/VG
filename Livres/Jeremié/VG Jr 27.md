@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 27
 - Jérémie 27
 - Jr 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 27

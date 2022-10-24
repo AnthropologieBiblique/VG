@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 11
 - Marc 11
 - Mc 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 10
 - 2 Chroniques 10
 - 2 Ch 10
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 10

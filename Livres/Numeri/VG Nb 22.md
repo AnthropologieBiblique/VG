@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 22
 - Nombres 22
 - Nb 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 22

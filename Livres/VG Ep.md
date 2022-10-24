@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Ephesios
 - Éphésiens
 - Ep
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Ephesios

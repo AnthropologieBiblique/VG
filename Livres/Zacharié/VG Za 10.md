@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié 10
 - Zacharie 10
 - Za 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié 10

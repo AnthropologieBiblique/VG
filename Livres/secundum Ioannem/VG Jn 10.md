@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 10
 - Jean 10
 - Jn 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 10

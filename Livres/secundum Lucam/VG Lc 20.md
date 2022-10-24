@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 20
 - Luc 20
 - Lc 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 20

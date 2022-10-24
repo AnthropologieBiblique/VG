@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 35
 - 2 Chroniques 35
 - 2 Ch 35
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/35
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 35

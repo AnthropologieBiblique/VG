@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos
 - Romains
 - Rm
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos

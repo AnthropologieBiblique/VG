@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 44
 - Isaïe 44
 - Is 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/44
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 44

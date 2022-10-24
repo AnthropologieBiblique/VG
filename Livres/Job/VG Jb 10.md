@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 10
 - Job 10
 - Jb 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 10

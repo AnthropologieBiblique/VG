@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 47
 - Ézéchiel 47
 - Ez 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/47
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 47

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 21
 - 2 Chroniques 21
 - 2 Ch 21
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 21

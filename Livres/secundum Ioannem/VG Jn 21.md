@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 21
 - Jean 21
 - Jn 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 21

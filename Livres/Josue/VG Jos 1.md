@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 1
 - Josué 1
 - Jos 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 1

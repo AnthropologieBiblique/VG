@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 13
 - Ézéchiel 13
 - Ez 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 13

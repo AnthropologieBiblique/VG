@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 11
 - Luc 11
 - Lc 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 11

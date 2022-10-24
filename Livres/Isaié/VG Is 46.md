@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 46
 - Isaïe 46
 - Is 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/46
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 46

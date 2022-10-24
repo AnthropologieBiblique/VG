@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 17
 - Jean 17
 - Jn 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 17

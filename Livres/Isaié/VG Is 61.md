@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 61
 - Isaïe 61
 - Is 61
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/61
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 61

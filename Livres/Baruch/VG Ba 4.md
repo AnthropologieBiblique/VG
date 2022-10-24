@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Baruch 4
 - Baruch 4
 - Ba 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Ba/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Baruch 4

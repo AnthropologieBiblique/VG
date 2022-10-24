@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 60
 - Isaïe 60
 - Is 60
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/60
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 60

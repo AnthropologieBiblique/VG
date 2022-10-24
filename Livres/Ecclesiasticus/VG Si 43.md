@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 43
 - Siracide 43
 - Si 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/43
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 43

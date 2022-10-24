@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 24
 - Siracide 24
 - Si 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 24

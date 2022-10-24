@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 15
 - Luc 15
 - Lc 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Philemonem 1
 - Philémon 1
 - Phm 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Phm/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Philemonem 1

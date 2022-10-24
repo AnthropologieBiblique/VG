@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 6
 - 1 Rois 6
 - 1 R 6
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 6

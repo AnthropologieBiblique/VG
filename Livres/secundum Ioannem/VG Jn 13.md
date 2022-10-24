@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 13
 - Jean 13
 - Jn 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 13

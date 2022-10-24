@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Ioannis 1
 - 1 Jean 1
 - 1 Jn 1
@@ -8,6 +8,7 @@ tags :
 - Bible/1Jn/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Ioannis 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 22
 - Josué 22
 - Jos 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 22

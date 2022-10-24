@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 8
 - Nombres 8
 - Nb 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 8

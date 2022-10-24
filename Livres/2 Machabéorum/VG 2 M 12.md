@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Machabéorum 12
 - 2 Maccabees 12
 - 2 M 12
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Machabéorum 12

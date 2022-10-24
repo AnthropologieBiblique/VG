@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 9
 - Deutéronome 9
 - Dt 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 9

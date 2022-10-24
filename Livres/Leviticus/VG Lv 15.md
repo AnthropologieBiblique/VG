@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 15
 - Lévitique 15
 - Lv 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 15

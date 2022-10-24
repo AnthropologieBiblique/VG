@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 8
 - Ézéchiel 8
 - Ez 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 8

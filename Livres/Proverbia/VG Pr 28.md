@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 28
 - Proverbes 28
 - Pr 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 28

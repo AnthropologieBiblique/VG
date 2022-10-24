@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 62
 - Isaïe 62
 - Is 62
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/62
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 62

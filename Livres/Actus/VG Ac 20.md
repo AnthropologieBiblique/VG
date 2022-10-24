@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 20
 - Actes 20
 - Ac 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 20

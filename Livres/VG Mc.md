@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum
 - Marc
 - Mc
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum

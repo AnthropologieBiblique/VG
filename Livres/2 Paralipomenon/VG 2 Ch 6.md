@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 6
 - 2 Chroniques 6
 - 2 Ch 6
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 6

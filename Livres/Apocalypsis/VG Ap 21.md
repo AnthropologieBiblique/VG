@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 21
 - Apocalypse 21
 - Ap 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 21

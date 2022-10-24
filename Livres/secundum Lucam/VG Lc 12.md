@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 12
 - Luc 12
 - Lc 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 12

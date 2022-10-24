@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 13
 - Judith 13
 - Jdt 13
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 3
 - Psaumes 3
 - Ps 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 3

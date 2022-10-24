@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 13
 - Matthieu 13
 - Mt 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 11
 - 1 Corinthiens 11
 - 1 Co 11
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 11

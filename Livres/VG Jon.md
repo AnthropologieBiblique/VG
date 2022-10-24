@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Joné
 - Jonas
 - Jon
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Joné

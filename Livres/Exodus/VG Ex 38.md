@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 38
 - Exode 38
 - Ex 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/38
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 38

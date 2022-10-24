@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 13
 - Néhémie 13
 - Ne 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 13

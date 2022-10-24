@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 40
 - Siracide 40
 - Si 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/40
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 40

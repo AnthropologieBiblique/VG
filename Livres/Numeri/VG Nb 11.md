@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 11
 - Nombres 11
 - Nb 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 11

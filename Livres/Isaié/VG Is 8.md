@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 8
 - Isaïe 8
 - Is 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 8

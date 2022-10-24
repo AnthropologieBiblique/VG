@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 16
 - Romains 16
 - Rm 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 16

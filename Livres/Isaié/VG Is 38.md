@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 38
 - Isaïe 38
 - Is 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/38
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 38

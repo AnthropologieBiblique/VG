@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 29
 - Siracide 29
 - Si 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/29
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 29

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michéæ 6
 - Michée 6
 - Mi 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Michéæ 6

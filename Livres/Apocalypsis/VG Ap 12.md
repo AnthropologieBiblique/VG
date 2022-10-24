@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 12
 - Apocalypse 12
 - Ap 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 12

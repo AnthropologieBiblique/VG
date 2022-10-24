@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 8
 - Matthieu 8
 - Mt 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 8

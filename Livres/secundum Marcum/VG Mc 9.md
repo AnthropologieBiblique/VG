@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 9
 - Marc 9
 - Mc 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 9

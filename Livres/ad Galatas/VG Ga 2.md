@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Galatas 2
 - Galates 2
 - Ga 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Galatas 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 15
 - Deutéronome 15
 - Dt 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 15

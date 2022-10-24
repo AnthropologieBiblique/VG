@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 34
 - Siracide 34
 - Si 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/34
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 34

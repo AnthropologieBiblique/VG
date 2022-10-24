@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 20
 - Proverbes 20
 - Pr 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 20

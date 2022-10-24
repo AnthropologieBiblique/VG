@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther, Greek 12
 - Esther, Grec 12
 - Estgrec 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther, Greek 12

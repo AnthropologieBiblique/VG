@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 9
 - Luc 9
 - Lc 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 9

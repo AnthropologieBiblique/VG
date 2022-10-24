@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 17
 - Exode 17
 - Ex 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 17

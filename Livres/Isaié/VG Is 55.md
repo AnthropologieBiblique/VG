@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 55
 - Isaïe 55
 - Is 55
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/55
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 55

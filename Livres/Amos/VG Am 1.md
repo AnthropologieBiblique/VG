@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 1
 - Amos 1
 - Am 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Amos 1

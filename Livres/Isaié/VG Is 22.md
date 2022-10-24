@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 22
 - Isaïe 22
 - Is 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 22

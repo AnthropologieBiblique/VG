@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 9
 - Nombres 9
 - Nb 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 9

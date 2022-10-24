@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 4
 - Néhémie 4
 - Ne 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 4

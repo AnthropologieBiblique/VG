@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 11
 - Genèse 11
 - Gn 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 11

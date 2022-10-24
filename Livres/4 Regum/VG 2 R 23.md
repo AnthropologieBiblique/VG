@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 4 Regum 23
 - 2 Rois 23
 - 2 R 23
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 4 Regum 23

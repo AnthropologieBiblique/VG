@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Galatas
 - Galates
 - Ga
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Galatas

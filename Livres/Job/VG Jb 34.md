@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 34
 - Job 34
 - Jb 34
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/34
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 34

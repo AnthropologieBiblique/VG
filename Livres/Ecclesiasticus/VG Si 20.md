@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 20
 - Siracide 20
 - Si 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 20

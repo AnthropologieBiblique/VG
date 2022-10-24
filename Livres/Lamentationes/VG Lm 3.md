@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lamentationes 3
 - Lamentations 3
 - Lm 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Lamentationes 3

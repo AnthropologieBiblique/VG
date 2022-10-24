@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 11
 - Matthieu 11
 - Mt 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 11

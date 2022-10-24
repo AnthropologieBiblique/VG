@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 15
 - Job 15
 - Jb 15
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 15

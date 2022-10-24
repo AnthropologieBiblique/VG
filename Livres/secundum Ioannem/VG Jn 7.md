@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 7
 - Jean 7
 - Jn 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 7

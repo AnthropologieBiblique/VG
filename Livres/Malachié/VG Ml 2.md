@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Malachié 2
 - Malachie 2
 - Ml 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Malachié 2

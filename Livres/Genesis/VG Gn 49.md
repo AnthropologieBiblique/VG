@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 49
 - Genèse 49
 - Gn 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/49
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 49

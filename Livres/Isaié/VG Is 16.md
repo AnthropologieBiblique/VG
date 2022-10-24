@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 16
 - Isaïe 16
 - Is 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 16

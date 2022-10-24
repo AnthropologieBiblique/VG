@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 19
 - Josué 19
 - Jos 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 19

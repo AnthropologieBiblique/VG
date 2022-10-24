@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 17
 - Nombres 17
 - Nb 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 17

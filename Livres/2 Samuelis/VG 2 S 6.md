@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuelis 6
 - 2 Samuel 6
 - 2 S 6
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Samuelis 6

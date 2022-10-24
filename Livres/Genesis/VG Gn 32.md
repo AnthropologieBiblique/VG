@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 32
 - Genèse 32
 - Gn 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/32
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 32

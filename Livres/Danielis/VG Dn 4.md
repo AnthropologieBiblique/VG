@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 4
 - Daniel 4
 - Dn 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 4

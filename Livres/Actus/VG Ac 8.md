@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 8
 - Actes 8
 - Ac 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 8

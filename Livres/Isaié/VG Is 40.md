@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 40
 - Isaïe 40
 - Is 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/40
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 40

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 19
 - Sagesse 19
 - Sg 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 19

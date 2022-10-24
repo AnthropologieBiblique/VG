@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 23
 - Actes 23
 - Ac 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 23

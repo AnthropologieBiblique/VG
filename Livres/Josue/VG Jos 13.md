@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 13
 - Josué 13
 - Jos 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 3
 - Hébreux 3
 - He 3
@@ -8,6 +8,7 @@ tags :
 - Bible/He/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 3

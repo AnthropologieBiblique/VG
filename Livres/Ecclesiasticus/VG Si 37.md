@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 37
 - Siracide 37
 - Si 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/37
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 37

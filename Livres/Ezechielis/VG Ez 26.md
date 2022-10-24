@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 26
 - Ézéchiel 26
 - Ez 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 26

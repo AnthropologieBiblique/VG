@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuelis
 - 1 Samuel
 - 1 S
@@ -7,6 +7,7 @@ tags :
 - Bible/1S
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Samuelis

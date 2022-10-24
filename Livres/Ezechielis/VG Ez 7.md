@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 7
 - Ézéchiel 7
 - Ez 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 7

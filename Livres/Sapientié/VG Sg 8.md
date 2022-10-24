@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 8
 - Sagesse 8
 - Sg 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 8

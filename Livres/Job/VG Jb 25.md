@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 25
 - Job 25
 - Jb 25
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 25

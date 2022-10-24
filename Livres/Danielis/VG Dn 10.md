@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 10
 - Daniel 10
 - Dn 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 16
 - 1 Corinthiens 16
 - 1 Co 16
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 16

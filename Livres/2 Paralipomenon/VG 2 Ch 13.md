@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 13
 - 2 Chroniques 13
 - 2 Ch 13
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 13

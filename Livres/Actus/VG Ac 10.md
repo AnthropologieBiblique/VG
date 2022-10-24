@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 10
 - Actes 10
 - Ac 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Iacobi 1
 - Jacques 1
 - Jc 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Iacobi 1

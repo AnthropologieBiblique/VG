@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 7
 - Exode 7
 - Ex 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 7

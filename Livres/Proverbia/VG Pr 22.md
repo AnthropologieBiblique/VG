@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 22
 - Proverbes 22
 - Pr 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 22

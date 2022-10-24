@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 6
 - Ecclésiaste 6
 - Qo 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 6

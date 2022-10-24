@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 9
 - Jérémie 9
 - Jr 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 9

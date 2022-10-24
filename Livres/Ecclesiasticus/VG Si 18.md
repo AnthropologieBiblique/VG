@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 18
 - Siracide 18
 - Si 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 18

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 25
 - Deutéronome 25
 - Dt 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 25

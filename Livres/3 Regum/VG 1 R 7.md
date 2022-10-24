@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 7
 - 1 Rois 7
 - 1 R 7
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 7

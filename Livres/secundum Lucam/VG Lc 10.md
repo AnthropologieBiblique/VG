@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 10
 - Luc 10
 - Lc 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 10

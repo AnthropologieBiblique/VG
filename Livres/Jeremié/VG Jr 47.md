@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 47
 - Jérémie 47
 - Jr 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/47
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 47

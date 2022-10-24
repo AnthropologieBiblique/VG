@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 16
 - Proverbes 16
 - Pr 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 16

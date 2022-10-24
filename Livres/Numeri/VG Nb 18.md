@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 18
 - Nombres 18
 - Nb 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 18

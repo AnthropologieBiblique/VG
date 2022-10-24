@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 7
 - Deutéronome 7
 - Dt 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 7

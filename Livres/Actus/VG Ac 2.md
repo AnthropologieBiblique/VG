@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 2
 - Actes 2
 - Ac 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 2

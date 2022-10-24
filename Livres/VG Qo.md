@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes
 - Ecclésiaste
 - Qo
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes

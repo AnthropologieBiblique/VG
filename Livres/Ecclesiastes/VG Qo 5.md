@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 5
 - Ecclésiaste 5
 - Qo 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 5

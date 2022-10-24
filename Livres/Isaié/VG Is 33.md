@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 33
 - Isaïe 33
 - Is 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/33
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 33

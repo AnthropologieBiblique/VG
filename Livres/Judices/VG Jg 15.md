@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 15
 - Juges 15
 - Jg 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 15

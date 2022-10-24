@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 17
 - Luc 17
 - Lc 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 17

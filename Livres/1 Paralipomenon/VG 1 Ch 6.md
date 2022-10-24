@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 6
 - 1 Chroniques 6
 - 1 Ch 6
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 6

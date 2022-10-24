@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 13
 - Exode 13
 - Ex 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 13

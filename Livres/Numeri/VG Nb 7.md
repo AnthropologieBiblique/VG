@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 7
 - Nombres 7
 - Nb 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 7

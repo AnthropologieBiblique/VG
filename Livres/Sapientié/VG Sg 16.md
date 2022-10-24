@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 16
 - Sagesse 16
 - Sg 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 16

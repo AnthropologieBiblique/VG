@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 4
 - Sagesse 4
 - Sg 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 4

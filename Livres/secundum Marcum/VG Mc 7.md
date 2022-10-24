@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 7
 - Marc 7
 - Mc 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 7

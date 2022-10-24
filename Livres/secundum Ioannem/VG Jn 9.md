@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 9
 - Jean 9
 - Jn 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 9

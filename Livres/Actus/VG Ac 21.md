@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 21
 - Actes 21
 - Ac 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 10
 - 1 Corinthiens 10
 - 1 Co 10
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 12
 - 1 Chroniques 12
 - 1 Ch 12
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 12

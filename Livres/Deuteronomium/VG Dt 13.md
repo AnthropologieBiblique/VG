@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 13
 - Deutéronome 13
 - Dt 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 13

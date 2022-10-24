@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 10
 - Ézéchiel 10
 - Ez 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 26
 - Actes 26
 - Ac 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 26

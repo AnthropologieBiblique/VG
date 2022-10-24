@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 21
 - Proverbes 21
 - Pr 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 21

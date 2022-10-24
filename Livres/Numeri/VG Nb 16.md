@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 16
 - Nombres 16
 - Nb 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 16

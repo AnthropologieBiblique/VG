@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther, Greek 13
 - Esther, Grec 13
 - Estgrec 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther, Greek 13

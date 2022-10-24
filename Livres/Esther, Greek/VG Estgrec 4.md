@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther, Greek 4
 - Esther, Grec 4
 - Estgrec 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther, Greek 4

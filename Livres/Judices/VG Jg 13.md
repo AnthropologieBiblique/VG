@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 13
 - Juges 13
 - Jg 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 13

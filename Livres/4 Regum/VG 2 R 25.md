@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 4 Regum 25
 - 2 Rois 25
 - 2 R 25
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 4 Regum 25

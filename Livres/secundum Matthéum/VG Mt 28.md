@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 28
 - Matthieu 28
 - Mt 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 28

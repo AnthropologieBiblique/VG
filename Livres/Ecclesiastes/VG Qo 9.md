@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 9
 - Ecclésiaste 9
 - Qo 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 9

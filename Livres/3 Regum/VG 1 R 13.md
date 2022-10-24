@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 13
 - 1 Rois 13
 - 1 R 13
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 13

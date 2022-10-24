@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 13
 - Hébreux 13
 - He 13
@@ -8,6 +8,7 @@ tags :
 - Bible/He/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 13

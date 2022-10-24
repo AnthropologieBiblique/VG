@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 14
 - Deutéronome 14
 - Dt 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 14

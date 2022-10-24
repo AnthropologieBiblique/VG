@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 28
 - Nombres 28
 - Nb 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 28

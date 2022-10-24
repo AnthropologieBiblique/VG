@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 15
 - 1 Chroniques 15
 - 1 Ch 15
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 3
 - Amos 3
 - Am 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Amos 3

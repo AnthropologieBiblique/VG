@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 14
 - Romains 14
 - Rm 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 14

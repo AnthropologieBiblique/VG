@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 4
 - Apocalypse 4
 - Ap 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 4

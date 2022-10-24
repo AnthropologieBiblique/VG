@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 20
 - 1 Rois 20
 - 1 R 20
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 20

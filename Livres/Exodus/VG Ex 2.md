@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 2
 - Exode 2
 - Ex 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 2

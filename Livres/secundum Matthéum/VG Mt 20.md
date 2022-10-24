@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 20
 - Matthieu 20
 - Mt 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 20

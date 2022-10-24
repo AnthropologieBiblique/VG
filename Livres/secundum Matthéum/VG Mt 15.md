@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 15
 - Matthieu 15
 - Mt 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 15

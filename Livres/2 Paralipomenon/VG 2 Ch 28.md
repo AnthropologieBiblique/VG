@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 28
 - 2 Chroniques 28
 - 2 Ch 28
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 28

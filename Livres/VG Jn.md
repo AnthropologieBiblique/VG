@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem
 - Jean
 - Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem

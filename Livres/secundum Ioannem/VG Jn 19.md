@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 19
 - Jean 19
 - Jn 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 19

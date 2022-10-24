@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Titum 2
 - Tite 2
 - Tt 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Titum 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Colossenses
 - Colossiens
 - Col
@@ -8,6 +8,7 @@ tags :
 - Bible/Col
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Colossenses

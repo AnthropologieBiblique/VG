@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié 14
 - Zacharie 14
 - Za 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié 14

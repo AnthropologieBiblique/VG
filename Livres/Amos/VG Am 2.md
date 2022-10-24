@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 2
 - Amos 2
 - Am 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Amos 2

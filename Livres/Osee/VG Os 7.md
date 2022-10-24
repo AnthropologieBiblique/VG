@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osee 7
 - Osée 7
 - Os 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Osee 7

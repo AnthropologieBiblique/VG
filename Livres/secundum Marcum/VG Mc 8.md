@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 8
 - Marc 8
 - Mc 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 8

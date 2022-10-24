@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 27
 - Isaïe 27
 - Is 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 27

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther 9
 - Esther 9
 - Est 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther 9

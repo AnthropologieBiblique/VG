@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 18
 - 1 Chroniques 18
 - 1 Ch 18
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 18

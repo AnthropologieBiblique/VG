@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 27
 - 1 Chroniques 27
 - 1 Ch 27
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 27

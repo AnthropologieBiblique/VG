@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 5
 - Romains 5
 - Rm 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 5

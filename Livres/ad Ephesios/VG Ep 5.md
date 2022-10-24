@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Ephesios 5
 - Éphésiens 5
 - Ep 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Ephesios 5

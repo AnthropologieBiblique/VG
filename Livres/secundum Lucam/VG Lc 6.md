@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 6
 - Luc 6
 - Lc 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 6

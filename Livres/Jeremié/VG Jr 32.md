@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 32
 - Jérémie 32
 - Jr 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/32
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 32

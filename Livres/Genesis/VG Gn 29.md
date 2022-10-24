@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 29
 - Genèse 29
 - Gn 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/29
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 29

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Philippenses 4
 - Philippiens 4
 - Ph 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Philippenses 4

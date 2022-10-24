@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue
 - Josué
 - Jos
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue

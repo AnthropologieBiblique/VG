@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osee 10
 - Osée 10
 - Os 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Osee 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 5
 - 2 Chroniques 5
 - 2 Ch 5
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 14
 - Job 14
 - Jb 14
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 14

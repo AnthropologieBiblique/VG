@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 11
 - Ecclésiaste 11
 - Qo 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 11

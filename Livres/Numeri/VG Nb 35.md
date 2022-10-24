@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 35
 - Nombres 35
 - Nb 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/35
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 35

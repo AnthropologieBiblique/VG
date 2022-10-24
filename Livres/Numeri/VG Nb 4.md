@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 4
 - Nombres 4
 - Nb 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 4

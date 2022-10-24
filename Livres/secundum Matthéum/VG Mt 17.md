@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 17
 - Matthieu 17
 - Mt 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 17

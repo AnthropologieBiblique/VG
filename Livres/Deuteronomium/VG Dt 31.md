@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 31
 - Deutéronome 31
 - Dt 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/31
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 31

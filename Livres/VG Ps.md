@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi
 - Psaumes
 - Ps
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi

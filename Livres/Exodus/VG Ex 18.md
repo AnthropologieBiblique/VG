@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 18
 - Exode 18
 - Ex 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 18

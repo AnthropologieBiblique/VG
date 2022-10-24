@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 10
 - Apocalypse 10
 - Ap 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 10

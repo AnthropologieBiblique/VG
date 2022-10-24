@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 3
 - Tobie 3
 - Tb 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 48
 - Isaïe 48
 - Is 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/48
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 48

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 4
 - Siracide 4
 - Si 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 17
 - Sagesse 17
 - Sg 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 17

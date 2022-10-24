@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 19
 - Luc 19
 - Lc 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 19

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 6
 - Siracide 6
 - Si 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 6

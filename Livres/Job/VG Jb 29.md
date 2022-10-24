@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 29
 - Job 29
 - Jb 29
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/29
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 29

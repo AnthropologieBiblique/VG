@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 ad Timotheum 3
 - 2 Timothée 3
 - 2 Tm 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Tm/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 ad Timotheum 3

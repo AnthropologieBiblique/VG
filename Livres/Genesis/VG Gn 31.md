@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 31
 - Genèse 31
 - Gn 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/31
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 31

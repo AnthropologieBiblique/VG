@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 20
 - Nombres 20
 - Nb 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 20

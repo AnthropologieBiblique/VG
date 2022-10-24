@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 19
 - Siracide 19
 - Si 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 19

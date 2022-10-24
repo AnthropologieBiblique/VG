@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus
 - Actes
 - Ac
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus

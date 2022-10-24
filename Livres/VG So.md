@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sophoniae
 - Sophonie
 - So
@@ -8,6 +8,7 @@ tags :
 - Bible/So
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sophoniae

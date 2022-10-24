@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 4
 - 1 Maccabees 4
 - 1 M 4
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 4

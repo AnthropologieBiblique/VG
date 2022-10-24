@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 8
 - Néhémie 8
 - Ne 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 8

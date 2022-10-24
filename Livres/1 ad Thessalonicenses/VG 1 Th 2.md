@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Thessalonicenses 2
 - 1 Thessaloniciens 2
 - 1 Th 2
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Thessalonicenses 2

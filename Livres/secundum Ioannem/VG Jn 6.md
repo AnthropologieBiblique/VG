@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 6
 - Jean 6
 - Jn 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 6

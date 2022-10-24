@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 31
 - Job 31
 - Jb 31
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/31
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 31

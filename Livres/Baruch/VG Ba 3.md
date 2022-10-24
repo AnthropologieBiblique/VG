@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Baruch 3
 - Baruch 3
 - Ba 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Ba/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Baruch 3

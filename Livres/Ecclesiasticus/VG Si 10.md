@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 10
 - Siracide 10
 - Si 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 10

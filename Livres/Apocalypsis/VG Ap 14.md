@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 14
 - Apocalypse 14
 - Ap 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 14

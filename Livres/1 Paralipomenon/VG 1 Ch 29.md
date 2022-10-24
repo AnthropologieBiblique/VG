@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 29
 - 1 Chroniques 29
 - 1 Ch 29
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/29
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 29

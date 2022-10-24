@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 5
 - Luc 5
 - Lc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 5

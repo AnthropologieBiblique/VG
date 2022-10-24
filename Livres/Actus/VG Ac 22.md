@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 22
 - Actes 22
 - Ac 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 22

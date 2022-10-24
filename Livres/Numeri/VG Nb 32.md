@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 32
 - Nombres 32
 - Nb 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/32
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 32

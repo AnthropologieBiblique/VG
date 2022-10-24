@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Ephesios 6
 - Éphésiens 6
 - Ep 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Ephesios 6

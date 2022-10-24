@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 6
 - Proverbes 6
 - Pr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 6

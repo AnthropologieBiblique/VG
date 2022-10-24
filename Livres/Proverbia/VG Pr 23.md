@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 23
 - Proverbes 23
 - Pr 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 23

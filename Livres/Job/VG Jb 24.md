@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 24
 - Job 24
 - Jb 24
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 24

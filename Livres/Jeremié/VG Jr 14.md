@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 14
 - Jérémie 14
 - Jr 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 12
 - Jean 12
 - Jn 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 12

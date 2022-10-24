@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 8
 - Psaumes 8
 - Ps 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 8

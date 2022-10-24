@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 1
 - Nombres 1
 - Nb 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 1

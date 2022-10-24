@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 1
 - Jérémie 1
 - Jr 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 1

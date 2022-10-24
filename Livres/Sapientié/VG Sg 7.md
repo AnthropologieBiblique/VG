@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 7
 - Sagesse 7
 - Sg 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 11
 - Romains 11
 - Rm 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 11

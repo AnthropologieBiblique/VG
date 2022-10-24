@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 28
 - Siracide 28
 - Si 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 28

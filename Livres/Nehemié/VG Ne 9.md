@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 9
 - Néhémie 9
 - Ne 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 9

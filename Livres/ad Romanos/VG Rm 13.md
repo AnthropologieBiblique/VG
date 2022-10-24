@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 13
 - Romains 13
 - Rm 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 13

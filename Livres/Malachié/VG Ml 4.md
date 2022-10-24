@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Malachié 4
 - Malachie 4
 - Ml 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Malachié 4

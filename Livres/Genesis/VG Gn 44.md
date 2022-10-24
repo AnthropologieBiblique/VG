@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 44
 - Genèse 44
 - Gn 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/44
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 44

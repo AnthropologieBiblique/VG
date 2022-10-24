@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 22
 - 2 Chroniques 22
 - 2 Ch 22
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 22

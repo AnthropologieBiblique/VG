@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 13
 - 1 Corinthiens 13
 - 1 Co 13
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 46
 - Jérémie 46
 - Jr 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/46
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 46

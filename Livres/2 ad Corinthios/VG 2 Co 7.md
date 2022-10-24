@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 ad Corinthios 7
 - 2 Corinthiens 7
 - 2 Co 7
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 ad Corinthios 7

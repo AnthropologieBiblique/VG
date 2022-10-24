@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 12
 - Matthieu 12
 - Mt 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 12

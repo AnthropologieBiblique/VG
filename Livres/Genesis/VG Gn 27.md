@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 27
 - Genèse 27
 - Gn 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 27

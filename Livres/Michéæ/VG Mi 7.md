@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michéæ 7
 - Michée 7
 - Mi 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Michéæ 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 6
 - Marc 6
 - Mc 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 6

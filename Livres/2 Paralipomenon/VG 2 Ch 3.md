@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 3
 - 2 Chroniques 3
 - 2 Ch 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Ioannis
 - 2 Jean
 - 2 Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/2Jn
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Ioannis

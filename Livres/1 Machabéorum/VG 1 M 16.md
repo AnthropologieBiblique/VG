@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 16
 - 1 Maccabees 16
 - 1 M 16
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 16

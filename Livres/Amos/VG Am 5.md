@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 5
 - Amos 5
 - Am 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Amos 5

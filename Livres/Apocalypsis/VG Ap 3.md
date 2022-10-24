@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 3
 - Apocalypse 3
 - Ap 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 3

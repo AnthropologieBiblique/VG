@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 24
 - Exode 24
 - Ex 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 24

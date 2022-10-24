@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 39
 - Jérémie 39
 - Jr 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/39
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 39

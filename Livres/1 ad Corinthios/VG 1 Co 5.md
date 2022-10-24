@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 5
 - 1 Corinthiens 5
 - 1 Co 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 5

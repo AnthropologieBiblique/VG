@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 7
 - Matthieu 7
 - Mt 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 7

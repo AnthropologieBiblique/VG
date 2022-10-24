@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lamentationes
 - Lamentations
 - Lm
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Lamentationes

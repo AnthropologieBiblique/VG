@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Galatas 6
 - Galates 6
 - Ga 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Galatas 6

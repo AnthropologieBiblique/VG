@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 7
 - Lévitique 7
 - Lv 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 7

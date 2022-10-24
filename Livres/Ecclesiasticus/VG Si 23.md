@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 23
 - Siracide 23
 - Si 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 23

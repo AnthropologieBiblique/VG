@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 33
 - Jérémie 33
 - Jr 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/33
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 33

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 16
 - Marc 16
 - Mc 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 16

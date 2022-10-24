@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuelis 15
 - 2 Samuel 15
 - 2 S 15
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Samuelis 15

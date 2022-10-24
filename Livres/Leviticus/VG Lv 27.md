@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 27
 - Lévitique 27
 - Lv 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 27

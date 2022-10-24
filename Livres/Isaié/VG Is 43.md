@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 43
 - Isaïe 43
 - Is 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/43
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 43

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 6
 - Apocalypse 6
 - Ap 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 6

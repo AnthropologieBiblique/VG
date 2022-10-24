@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié 13
 - Zacharie 13
 - Za 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 18
 - Proverbes 18
 - Pr 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 18

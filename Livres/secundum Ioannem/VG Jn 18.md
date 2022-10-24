@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 18
 - Jean 18
 - Jn 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 18

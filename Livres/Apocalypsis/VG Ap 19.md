@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 19
 - Apocalypse 19
 - Ap 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 19

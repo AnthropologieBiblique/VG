@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 27
 - Actes 27
 - Ac 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 27

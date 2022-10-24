@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 27
 - Nombres 27
 - Nb 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 27

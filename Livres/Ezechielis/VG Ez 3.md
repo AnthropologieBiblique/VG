@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 3
 - Ézéchiel 3
 - Ez 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 19
 - 1 Rois 19
 - 1 R 19
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/19
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 19

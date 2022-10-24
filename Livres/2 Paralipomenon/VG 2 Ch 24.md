@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 24
 - 2 Chroniques 24
 - 2 Ch 24
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 24

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 27
 - Siracide 27
 - Si 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 27

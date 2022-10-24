@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 7
 - Genèse 7
 - Gn 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 35
 - Jérémie 35
 - Jr 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/35
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 35

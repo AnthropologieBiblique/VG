@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 26
 - Genèse 26
 - Gn 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 26

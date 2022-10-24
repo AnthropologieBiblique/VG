@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 17
 - Juges 17
 - Jg 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 17

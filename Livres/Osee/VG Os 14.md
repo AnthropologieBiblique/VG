@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osee 14
 - Osée 13
 - Os 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Osee 14

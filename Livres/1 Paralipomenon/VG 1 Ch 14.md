@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 14
 - 1 Chroniques 14
 - 1 Ch 14
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 14

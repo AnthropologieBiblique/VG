@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 10
 - Hébreux 10
 - He 10
@@ -8,6 +8,7 @@ tags :
 - Bible/He/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 10

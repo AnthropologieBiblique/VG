@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 9
 - 1 Corinthiens 9
 - 1 Co 9
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 9

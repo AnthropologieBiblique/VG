@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 ad Timotheum
 - 2 Timothée
 - 2 Tm
@@ -8,6 +8,7 @@ tags :
 - Bible/2Tm
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 ad Timotheum

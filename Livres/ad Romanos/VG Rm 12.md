@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 12
 - Romains 12
 - Rm 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 26
 - Jérémie 26
 - Jr 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 26

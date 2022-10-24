@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 39
 - Isaïe 39
 - Is 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/39
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 39

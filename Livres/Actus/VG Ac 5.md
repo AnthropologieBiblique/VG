@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 5
 - Actes 5
 - Ac 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Malachié 1
 - Malachie 1
 - Ml 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Malachié 1

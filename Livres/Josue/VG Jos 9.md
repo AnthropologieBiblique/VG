@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 9
 - Josué 9
 - Jos 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 9

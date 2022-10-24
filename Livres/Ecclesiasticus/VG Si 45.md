@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 45
 - Siracide 45
 - Si 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/45
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 45

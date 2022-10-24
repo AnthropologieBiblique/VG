@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 6
 - Judith 6
 - Jdt 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 6

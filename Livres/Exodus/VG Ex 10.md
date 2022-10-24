@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 10
 - Exode 10
 - Ex 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 10

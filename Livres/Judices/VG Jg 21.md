@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 21
 - Juges 21
 - Jg 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 21

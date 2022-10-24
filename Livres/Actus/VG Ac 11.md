@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 11
 - Actes 11
 - Ac 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 11

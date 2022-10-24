@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 22
 - Deutéronome 22
 - Dt 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 22

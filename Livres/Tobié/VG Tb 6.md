@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 6
 - Tobie 6
 - Tb 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 6

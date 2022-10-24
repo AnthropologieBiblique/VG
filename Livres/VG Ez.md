@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis
 - Ézéchiel
 - Ez
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis

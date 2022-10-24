@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 20
 - Josué 20
 - Jos 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 20

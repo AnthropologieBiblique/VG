@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 5
 - Sagesse 5
 - Sg 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 5

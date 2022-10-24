@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 17
 - Josué 17
 - Jos 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 17

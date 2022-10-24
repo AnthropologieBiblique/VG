@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 11
 - Isaïe 11
 - Is 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 11

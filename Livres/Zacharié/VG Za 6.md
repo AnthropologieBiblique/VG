@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié 6
 - Zacharie 6
 - Za 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié 6

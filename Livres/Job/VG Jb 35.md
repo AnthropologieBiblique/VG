@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 35
 - Job 35
 - Jb 35
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/35
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 35

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 36
 - Siracide 36
 - Si 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/36
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 36

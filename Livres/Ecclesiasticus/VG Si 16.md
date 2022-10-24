@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 16
 - Siracide 16
 - Si 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 16

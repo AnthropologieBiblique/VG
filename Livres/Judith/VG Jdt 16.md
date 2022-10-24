@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 16
 - Judith 15
 - Jdt 15
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 16

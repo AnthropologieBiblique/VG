@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 12
 - Josué 12
 - Jos 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 30
 - Jérémie 30
 - Jr 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/30
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 30

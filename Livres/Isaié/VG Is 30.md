@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 30
 - Isaïe 30
 - Is 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/30
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 30

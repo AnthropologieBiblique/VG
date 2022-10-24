@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 18
 - Juges 18
 - Jg 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 18

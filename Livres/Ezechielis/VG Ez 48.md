@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 48
 - Ézéchiel 48
 - Ez 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/48
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 48

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 5
 - Jean 5
 - Jn 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 5

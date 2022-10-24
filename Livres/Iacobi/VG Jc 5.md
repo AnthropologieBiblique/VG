@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Iacobi 5
 - Jacques 5
 - Jc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Iacobi 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 18
 - Matthieu 18
 - Mt 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 18

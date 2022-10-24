@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 6
 - Deutéronome 6
 - Dt 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 6

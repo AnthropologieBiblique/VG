@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 5
 - Jérémie 5
 - Jr 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 5

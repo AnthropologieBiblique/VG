@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 14
 - Matthieu 14
 - Mt 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 14

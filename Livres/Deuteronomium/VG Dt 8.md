@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 8
 - Deutéronome 8
 - Dt 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 8

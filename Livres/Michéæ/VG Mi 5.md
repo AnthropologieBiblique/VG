@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michéæ 5
 - Michée 5
 - Mi 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Michéæ 5

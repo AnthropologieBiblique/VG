@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 24
 - Jérémie 24
 - Jr 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 24

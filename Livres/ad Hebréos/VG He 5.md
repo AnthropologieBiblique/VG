@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 5
 - Hébreux 5
 - He 5
@@ -8,6 +8,7 @@ tags :
 - Bible/He/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 5

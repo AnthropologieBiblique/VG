@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 51
 - Siracide 51
 - Si 51
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/51
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 51

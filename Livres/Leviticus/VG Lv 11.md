@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 11
 - Lévitique 11
 - Lv 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 11
 - Hébreux 11
 - He 11
@@ -8,6 +8,7 @@ tags :
 - Bible/He/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 11

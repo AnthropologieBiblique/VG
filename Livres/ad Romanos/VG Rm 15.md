@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 15
 - Romains 15
 - Rm 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 30
 - Exode 30
 - Ex 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/30
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 30

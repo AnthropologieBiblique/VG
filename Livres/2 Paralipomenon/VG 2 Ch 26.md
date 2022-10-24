@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 26
 - 2 Chroniques 26
 - 2 Ch 26
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 26

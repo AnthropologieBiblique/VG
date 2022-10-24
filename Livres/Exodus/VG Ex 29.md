@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 29
 - Exode 29
 - Ex 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/29
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 29

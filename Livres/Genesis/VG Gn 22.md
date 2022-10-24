@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 22
 - Genèse 22
 - Gn 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 22

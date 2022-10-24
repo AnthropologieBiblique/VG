@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Baruch
 - Baruch
 - Ba
@@ -7,6 +7,7 @@ tags :
 - Bible/Ba
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Baruch

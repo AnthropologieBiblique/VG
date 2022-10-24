@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 6
 - Amos 6
 - Am 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Amos 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 1
 - Daniel 1
 - Dn 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 1

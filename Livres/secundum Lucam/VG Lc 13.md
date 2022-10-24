@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 13
 - Luc 13
 - Lc 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 13

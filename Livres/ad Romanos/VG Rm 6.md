@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 6
 - Romains 6
 - Rm 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 6

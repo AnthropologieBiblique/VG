@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 21
 - Nombres 21
 - Nb 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 21

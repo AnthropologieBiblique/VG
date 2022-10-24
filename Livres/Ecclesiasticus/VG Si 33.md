@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 33
 - Siracide 33
 - Si 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/33
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 33

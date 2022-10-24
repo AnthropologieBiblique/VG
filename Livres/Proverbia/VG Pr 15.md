@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 15
 - Proverbes 15
 - Pr 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 15

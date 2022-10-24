@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 35
 - Ézéchiel 35
 - Ez 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/35
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 35

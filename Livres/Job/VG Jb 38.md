@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 38
 - Job 38
 - Jb 38
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/38
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 38

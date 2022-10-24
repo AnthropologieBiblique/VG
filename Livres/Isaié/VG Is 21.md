@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 21
 - Isaïe 21
 - Is 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 21

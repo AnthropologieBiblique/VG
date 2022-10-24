@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 5
 - 1 Maccabees 5
 - 1 M 5
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 5

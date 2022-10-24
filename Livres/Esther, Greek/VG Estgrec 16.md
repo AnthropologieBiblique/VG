@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther, Greek 16
 - Esther, Grec 16
 - Estgrec 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther, Greek 16

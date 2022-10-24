@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Machabéorum 8
 - 2 Maccabees 8
 - 2 M 8
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Machabéorum 8

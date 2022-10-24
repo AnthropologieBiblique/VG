@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuelis 22
 - 2 Samuel 22
 - 2 S 22
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Samuelis 22

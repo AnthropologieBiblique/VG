@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 7
 - Jérémie 7
 - Jr 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 7

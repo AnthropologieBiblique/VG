@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 8
 - Job 8
 - Jb 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 8

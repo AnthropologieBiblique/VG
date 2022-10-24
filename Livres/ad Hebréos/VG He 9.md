@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 9
 - Hébreux 9
 - He 9
@@ -8,6 +8,7 @@ tags :
 - Bible/He/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 9

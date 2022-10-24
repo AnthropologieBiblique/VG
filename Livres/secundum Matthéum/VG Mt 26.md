@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 26
 - Matthieu 26
 - Mt 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 26

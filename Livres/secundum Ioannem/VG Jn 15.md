@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 15
 - Jean 15
 - Jn 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 15

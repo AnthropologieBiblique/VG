@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Colossenses 3
 - Colossiens 3
 - Col 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Colossenses 3

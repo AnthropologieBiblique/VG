@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 7
 - 2 Chroniques 7
 - 2 Ch 7
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 7

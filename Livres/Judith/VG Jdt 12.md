@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 12
 - Judith 12
 - Jdt 12
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 12

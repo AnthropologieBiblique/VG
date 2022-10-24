@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 6
 - Néhémie 6
 - Ne 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 6

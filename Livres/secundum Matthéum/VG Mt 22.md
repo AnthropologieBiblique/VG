@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 22
 - Matthieu 22
 - Mt 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 22

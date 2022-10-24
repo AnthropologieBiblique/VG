@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ruth 2
 - Ruth 2
 - Rt 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Rt/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ruth 2

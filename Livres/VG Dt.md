@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium
 - Deutéronome
 - Dt
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium

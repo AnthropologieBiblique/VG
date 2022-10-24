@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 34
 - Jérémie 34
 - Jr 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/34
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 34

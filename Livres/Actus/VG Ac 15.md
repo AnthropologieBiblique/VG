@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 15
 - Actes 15
 - Ac 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 15

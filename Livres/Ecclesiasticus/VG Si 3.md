@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 3
 - Siracide 3
 - Si 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 3

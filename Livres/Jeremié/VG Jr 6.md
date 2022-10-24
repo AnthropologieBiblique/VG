@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 6
 - Jérémie 6
 - Jr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 6

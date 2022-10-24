@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 3
 - Sagesse 3
 - Sg 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 3

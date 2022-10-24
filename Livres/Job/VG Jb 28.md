@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 28
 - Job 28
 - Jb 28
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 28

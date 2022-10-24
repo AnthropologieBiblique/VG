@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Galatas 3
 - Galates 3
 - Ga 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Galatas 3

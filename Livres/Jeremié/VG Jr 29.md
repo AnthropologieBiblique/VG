@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 29
 - Jérémie 29
 - Jr 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/29
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 29

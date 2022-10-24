@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 4 Regum 21
 - 2 Rois 21
 - 2 R 21
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 4 Regum 21

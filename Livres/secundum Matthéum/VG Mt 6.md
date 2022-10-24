@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 6
 - Matthieu 6
 - Mt 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 6

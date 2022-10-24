@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 22
 - Luc 22
 - Lc 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 22

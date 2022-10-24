@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 10
 - Jérémie 10
 - Jr 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 10

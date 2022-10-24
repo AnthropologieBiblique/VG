@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Iudé 1
 - Jude 1
 - Jude 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Jude/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Iudé 1

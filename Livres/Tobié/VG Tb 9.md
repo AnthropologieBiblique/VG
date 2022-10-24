@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 9
 - Tobie 9
 - Tb 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 7
 - Daniel 7
 - Dn 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 7

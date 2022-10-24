@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 26
 - 1 Chroniques 26
 - 1 Ch 26
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/26
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 26

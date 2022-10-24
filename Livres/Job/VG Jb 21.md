@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 21
 - Job 21
 - Jb 21
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 21

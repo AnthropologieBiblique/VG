@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 20
 - Job 20
 - Jb 20
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Machabéorum 3
 - 2 Maccabees 3
 - 2 M 3
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Machabéorum 3

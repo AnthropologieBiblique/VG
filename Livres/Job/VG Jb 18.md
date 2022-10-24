@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 18
 - Job 18
 - Jb 18
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 18

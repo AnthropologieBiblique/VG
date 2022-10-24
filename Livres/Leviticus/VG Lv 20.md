@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 20
 - Lévitique 20
 - Lv 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 20

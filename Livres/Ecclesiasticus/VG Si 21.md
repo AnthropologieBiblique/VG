@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 21
 - Siracide 21
 - Si 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 21

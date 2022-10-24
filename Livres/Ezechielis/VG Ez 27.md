@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 27
 - Ézéchiel 27
 - Ez 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 27

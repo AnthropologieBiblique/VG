@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 9
 - Matthieu 9
 - Mt 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 9

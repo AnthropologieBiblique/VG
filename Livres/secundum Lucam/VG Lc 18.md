@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 18
 - Luc 18
 - Lc 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 18

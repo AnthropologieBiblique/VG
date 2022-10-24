@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 15
 - Marc 15
 - Mc 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 5
 - Daniel 5
 - Dn 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 5

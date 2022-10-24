@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 21
 - 1 Rois 21
 - 1 R 21
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 21

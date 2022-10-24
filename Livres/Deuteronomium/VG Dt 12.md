@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 12
 - Deutéronome 12
 - Dt 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 12

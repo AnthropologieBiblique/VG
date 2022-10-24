@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Baruch 5
 - Baruch 5
 - Ba 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Ba/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Baruch 5

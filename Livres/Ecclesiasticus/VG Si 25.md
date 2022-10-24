@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 25
 - Siracide 25
 - Si 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 25

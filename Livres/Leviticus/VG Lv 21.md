@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 21
 - Lévitique 21
 - Lv 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdré 3
 - Esdras 3
 - Esd 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esdré 3

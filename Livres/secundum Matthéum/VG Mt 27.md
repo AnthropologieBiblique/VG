@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 27
 - Matthieu 27
 - Mt 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/27
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 27

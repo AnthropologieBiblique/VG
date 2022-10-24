@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 33
 - Deutéronome 33
 - Dt 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/33
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 33

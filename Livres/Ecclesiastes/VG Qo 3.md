@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 3
 - Ecclésiaste 3
 - Qo 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 3

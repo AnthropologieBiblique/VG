@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 4
 - 2 Chroniques 4
 - 2 Ch 4
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 4

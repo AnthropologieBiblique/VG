@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 33
 - Genèse 33
 - Gn 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/33
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 33

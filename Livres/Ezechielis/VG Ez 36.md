@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 36
 - Ézéchiel 36
 - Ez 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/36
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 36

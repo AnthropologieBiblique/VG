@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther 10
 - Esther 10
 - Est 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther 10

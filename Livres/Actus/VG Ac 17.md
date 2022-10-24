@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 17
 - Actes 17
 - Ac 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 17

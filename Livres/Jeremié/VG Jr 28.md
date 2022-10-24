@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 28
 - Jérémie 28
 - Jr 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/28
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 28

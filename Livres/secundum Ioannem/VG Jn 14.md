@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 14
 - Jean 14
 - Jn 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 14

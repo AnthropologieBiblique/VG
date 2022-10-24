@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 13
 - Jérémie 13
 - Jr 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 13

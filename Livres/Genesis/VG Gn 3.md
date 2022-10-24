@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 3
 - Genèse 3
 - Gn 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 3

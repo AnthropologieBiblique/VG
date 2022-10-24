@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 6
 - Genèse 6
 - Gn 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 6

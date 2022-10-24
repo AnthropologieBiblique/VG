@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 10
 - Marc 10
 - Mc 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 10

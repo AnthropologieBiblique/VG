@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 11
 - Daniel 11
 - Dn 11
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 44
 - Jérémie 44
 - Jr 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/44
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 44

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 18
 - 2 Chroniques 18
 - 2 Ch 18
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 18

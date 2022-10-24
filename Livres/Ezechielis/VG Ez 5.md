@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 5
 - Ézéchiel 5
 - Ez 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 5

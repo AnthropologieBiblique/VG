@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 41
 - Genèse 41
 - Gn 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/41
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 41

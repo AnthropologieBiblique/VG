@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 12
 - Ecclésiaste 12
 - Qo 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 12

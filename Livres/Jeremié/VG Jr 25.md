@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 25
 - Jérémie 25
 - Jr 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 25

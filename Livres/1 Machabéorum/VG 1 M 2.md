@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 2
 - 1 Maccabees 2
 - 1 M 2
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 2

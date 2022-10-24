@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 14
 - Tobie 14
 - Tb 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 14

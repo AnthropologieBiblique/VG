@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 11
 - Josué 11
 - Jos 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 11

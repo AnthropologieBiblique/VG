@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 4
 - Judith 4
 - Jdt 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 4

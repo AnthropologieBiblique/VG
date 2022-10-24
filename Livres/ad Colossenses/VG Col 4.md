@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Colossenses 4
 - Colossiens 4
 - Col 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Colossenses 4

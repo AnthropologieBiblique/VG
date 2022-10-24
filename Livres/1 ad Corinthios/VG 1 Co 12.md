@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 12
 - 1 Corinthiens 12
 - 1 Co 12
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 12

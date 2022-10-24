@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 12
 - Tobie 12
 - Tb 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 12

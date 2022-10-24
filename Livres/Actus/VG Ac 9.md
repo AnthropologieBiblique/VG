@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 9
 - Actes 9
 - Ac 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 9

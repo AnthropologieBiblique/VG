@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 8
 - 1 Rois 8
 - 1 R 8
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 8

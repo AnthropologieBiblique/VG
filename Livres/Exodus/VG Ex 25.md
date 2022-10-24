@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exodus 25
 - Exode 25
 - Ex 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Exodus 25

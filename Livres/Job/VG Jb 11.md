@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 11
 - Job 11
 - Jb 11
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 11

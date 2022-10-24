@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié
 - Zacharie
 - Za
@@ -8,6 +8,7 @@ tags :
 - Bible/Za
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié

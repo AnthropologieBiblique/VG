@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 8
 - Judith 8
 - Jdt 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 8

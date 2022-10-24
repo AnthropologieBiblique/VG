@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Ephesios 4
 - Éphésiens 4
 - Ep 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Ephesios 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 2
 - Luc 2
 - Lc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 2

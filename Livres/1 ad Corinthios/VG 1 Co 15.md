@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 15
 - 1 Corinthiens 15
 - 1 Co 15
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 15

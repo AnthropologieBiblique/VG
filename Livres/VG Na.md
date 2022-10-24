@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nahum
 - Nahum
 - Na
@@ -7,6 +7,7 @@ tags :
 - Bible/Na
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nahum

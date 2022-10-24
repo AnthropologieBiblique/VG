@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 34
 - Deutéronome 34
 - Dt 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/34
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 34

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 21
 - Matthieu 21
 - Mt 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdré 7
 - Esdras 7
 - Esd 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esdré 7

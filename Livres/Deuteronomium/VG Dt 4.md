@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 4
 - Deutéronome 4
 - Dt 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 4

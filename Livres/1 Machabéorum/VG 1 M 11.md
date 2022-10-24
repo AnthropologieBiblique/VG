@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 11
 - 1 Maccabees 11
 - 1 M 11
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 11

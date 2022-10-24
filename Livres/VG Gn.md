@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis
 - Genèse
 - Gn
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis

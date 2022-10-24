@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios
 - 1 Corinthiens
 - 1 Co
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios

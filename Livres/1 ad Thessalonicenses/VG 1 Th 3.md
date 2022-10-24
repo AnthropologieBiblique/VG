@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Thessalonicenses 3
 - 1 Thessaloniciens 3
 - 1 Th 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Thessalonicenses 3

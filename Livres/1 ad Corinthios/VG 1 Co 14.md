@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Corinthios 14
 - 1 Corinthiens 14
 - 1 Co 14
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Corinthios 14

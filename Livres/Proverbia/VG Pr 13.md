@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 13
 - Proverbes 13
 - Pr 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 13

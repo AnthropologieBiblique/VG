@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 8
 - Ecclésiaste 8
 - Qo 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 8

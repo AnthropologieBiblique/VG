@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 9B (10)
 - Psaumes 10 (9B)
 - Ps 10 (9B)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/10_9B
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 9B (10)

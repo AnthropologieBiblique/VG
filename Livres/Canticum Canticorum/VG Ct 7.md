@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Canticum Canticorum 7
 - Cantique des cantiques 7
 - Ct 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Canticum Canticorum 7

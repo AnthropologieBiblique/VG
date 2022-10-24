@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther, Greek 5
 - Esther, Grec 5
 - Estgrec 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther, Greek 5

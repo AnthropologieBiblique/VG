@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 30
 - Ézéchiel 30
 - Ez 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/30
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 30

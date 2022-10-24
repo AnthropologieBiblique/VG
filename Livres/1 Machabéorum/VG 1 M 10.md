@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 10
 - 1 Maccabees 10
 - 1 M 10
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 10

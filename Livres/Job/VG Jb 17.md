@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 17
 - Job 17
 - Jb 17
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 17

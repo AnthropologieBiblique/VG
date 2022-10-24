@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Joel 2
 - Joël 2
 - Jl 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Joel 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 1
 - Romains 1
 - Rm 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 1

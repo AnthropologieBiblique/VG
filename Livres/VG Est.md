@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther
 - Esther
 - Est
@@ -7,6 +7,7 @@ tags :
 - Bible/Est
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther

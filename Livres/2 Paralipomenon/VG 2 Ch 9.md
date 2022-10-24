@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 9
 - 2 Chroniques 9
 - 2 Ch 9
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 9

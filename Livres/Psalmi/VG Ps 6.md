@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 6
 - Psaumes 6
 - Ps 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 6

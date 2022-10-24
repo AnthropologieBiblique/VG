@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 9
 - Proverbes 9
 - Pr 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 9

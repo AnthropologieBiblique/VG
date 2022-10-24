@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Thessalonicenses 4
 - 1 Thessaloniciens 4
 - 1 Th 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Thessalonicenses 4

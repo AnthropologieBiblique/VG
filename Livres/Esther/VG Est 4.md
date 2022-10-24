@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther 4
 - Esther 4
 - Est 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther 4

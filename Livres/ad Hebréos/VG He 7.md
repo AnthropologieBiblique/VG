@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Hebréos 7
 - Hébreux 7
 - He 7
@@ -8,6 +8,7 @@ tags :
 - Bible/He/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Hebréos 7

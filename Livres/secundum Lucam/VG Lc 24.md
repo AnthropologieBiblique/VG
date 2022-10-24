@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 24
 - Luc 24
 - Lc 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 24

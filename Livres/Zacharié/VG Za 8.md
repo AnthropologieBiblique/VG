@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié 8
 - Zacharie 8
 - Za 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié 8

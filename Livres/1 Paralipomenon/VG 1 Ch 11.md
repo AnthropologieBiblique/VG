@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 11
 - 1 Chroniques 11
 - 1 Ch 11
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 11

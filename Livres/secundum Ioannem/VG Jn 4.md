@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 4
 - Jean 4
 - Jn 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 4

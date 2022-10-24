@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 30
 - Siracide 30
 - Si 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/30
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 30

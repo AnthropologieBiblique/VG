@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 8
 - Tobie 8
 - Tb 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 8

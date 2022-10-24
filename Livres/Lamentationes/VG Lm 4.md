@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lamentationes 4
 - Lamentations 4
 - Lm 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Lamentationes 4

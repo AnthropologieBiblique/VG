@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 46
 - Genèse 46
 - Gn 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/46
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 46

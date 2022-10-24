@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuelis 24
 - 1 Samuel 23
 - 1 S 23
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Samuelis 24

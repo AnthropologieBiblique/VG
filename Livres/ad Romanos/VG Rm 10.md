@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 10
 - Romains 10
 - Rm 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 10

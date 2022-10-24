@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 10
 - Ecclésiaste 10
 - Qo 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 10

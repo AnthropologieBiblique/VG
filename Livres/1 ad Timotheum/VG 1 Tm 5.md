@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 ad Timotheum 5
 - 1 Timothée 5
 - 1 Tm 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 ad Timotheum 5

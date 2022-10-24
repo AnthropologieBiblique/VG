@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Ephesios 2
 - Éphésiens 2
 - Ep 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Ephesios 2

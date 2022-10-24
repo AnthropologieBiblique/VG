@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 23
 - Matthieu 23
 - Mt 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 23

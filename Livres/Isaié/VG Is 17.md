@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 17
 - Isaïe 17
 - Is 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 17

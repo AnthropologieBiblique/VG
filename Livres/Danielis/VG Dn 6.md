@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Danielis 6
 - Daniel 6
 - Dn 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/6
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Danielis 6

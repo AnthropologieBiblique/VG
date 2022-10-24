@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 34
 - Ézéchiel 34
 - Ez 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/34
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 34

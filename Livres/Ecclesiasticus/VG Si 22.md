@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 22
 - Siracide 22
 - Si 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 22

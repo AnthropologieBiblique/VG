@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 3
 - Jean 3
 - Jn 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 3

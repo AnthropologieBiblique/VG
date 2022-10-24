@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 18
 - Isaïe 18
 - Is 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 18

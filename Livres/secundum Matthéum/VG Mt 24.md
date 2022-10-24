@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 24
 - Matthieu 24
 - Mt 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 24

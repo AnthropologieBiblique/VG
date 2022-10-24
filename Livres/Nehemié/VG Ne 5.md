@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 5
 - Néhémie 5
 - Ne 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 5

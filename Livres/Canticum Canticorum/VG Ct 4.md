@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Canticum Canticorum 4
 - Cantique des cantiques 4
 - Ct 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Canticum Canticorum 4

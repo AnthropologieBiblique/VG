@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 14
 - Luc 14
 - Lc 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 14

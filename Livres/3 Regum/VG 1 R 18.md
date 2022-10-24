@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Regum 18
 - 1 Rois 18
 - 1 R 18
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 3 Regum 18

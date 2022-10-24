@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 7
 - Actes 7
 - Ac 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 4 Regum 16
 - 2 Rois 16
 - 2 R 16
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 4 Regum 16

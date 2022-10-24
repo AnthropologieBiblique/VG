@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 1
 - Apocalypse 1
 - Ap 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 1

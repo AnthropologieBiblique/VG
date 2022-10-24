@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 4
 - Psaumes 4
 - Ps 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 4

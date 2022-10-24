@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 34
 - Isaïe 34
 - Is 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/34
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 34

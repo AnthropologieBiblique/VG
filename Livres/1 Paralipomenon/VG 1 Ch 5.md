@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 5
 - 1 Chroniques 5
 - 1 Ch 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 5

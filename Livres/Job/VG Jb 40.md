@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 40
 - Job 40
 - Jb 40
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/40
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 40

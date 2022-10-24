@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 25
 - Matthieu 25
 - Mt 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 25

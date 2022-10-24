@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 13
 - Sagesse 13
 - Sg 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 13

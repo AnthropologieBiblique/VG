@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 3
 - Romains 3
 - Rm 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 3

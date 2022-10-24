@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 1
 - Jean 1
 - Jn 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 1

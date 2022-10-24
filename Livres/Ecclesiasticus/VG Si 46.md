@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 46
 - Siracide 46
 - Si 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/46
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 46

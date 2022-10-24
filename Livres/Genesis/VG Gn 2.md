@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 2
 - Genèse 2
 - Gn 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 45
 - Isaïe 45
 - Is 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/45
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 45

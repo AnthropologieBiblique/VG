@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ezechielis 43
 - Ézéchiel 43
 - Ez 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/43
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ezechielis 43

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 3
 - Marc 3
 - Mc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 3

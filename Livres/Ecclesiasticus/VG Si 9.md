@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 9
 - Siracide 9
 - Si 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 9

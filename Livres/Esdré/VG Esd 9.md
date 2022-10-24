@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdré 9
 - Esdras 9
 - Esd 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esdré 9

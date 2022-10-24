@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actus 12
 - Actes 12
 - Ac 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/12
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Actus 12

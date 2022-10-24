@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuelis 21
 - 2 Samuel 21
 - 2 S 21
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Samuelis 21

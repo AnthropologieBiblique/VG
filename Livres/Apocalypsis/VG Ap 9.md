@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 9
 - Apocalypse 9
 - Ap 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 9

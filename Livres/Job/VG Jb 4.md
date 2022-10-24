@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 4
 - Job 4
 - Jb 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 7
 - Proverbes 7
 - Pr 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 7

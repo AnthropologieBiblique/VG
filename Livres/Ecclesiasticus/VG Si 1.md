@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 1
 - Siracide 1
 - Si 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 1

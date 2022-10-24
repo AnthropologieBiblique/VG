@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 16
 - Genèse 16
 - Gn 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 16

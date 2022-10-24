@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 9
 - Romains 9
 - Rm 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 9

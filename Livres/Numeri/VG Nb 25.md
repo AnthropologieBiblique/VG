@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 25
 - Nombres 25
 - Nb 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/25
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 25

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 4
 - Matthieu 4
 - Mt 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 4

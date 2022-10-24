@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sapientié 18
 - Sagesse 18
 - Sg 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Sapientié 18

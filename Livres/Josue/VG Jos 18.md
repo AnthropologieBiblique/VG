@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josue 18
 - Josué 18
 - Jos 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Josue 18

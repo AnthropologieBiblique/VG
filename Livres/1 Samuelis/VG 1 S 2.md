@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuelis 2
 - 1 Samuel 2
 - 1 S 2
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Samuelis 2

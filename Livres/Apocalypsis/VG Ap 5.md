@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 5
 - Apocalypse 5
 - Ap 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 5

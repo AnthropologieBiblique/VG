@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié 9
 - Zacharie 9
 - Za 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié 9

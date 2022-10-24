@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Machabéorum 9
 - 2 Maccabees 9
 - 2 M 9
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Machabéorum 9

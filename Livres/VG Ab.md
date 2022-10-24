@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Abdié
 - Abdias
 - Ab
@@ -8,6 +8,7 @@ tags :
 - Bible/Ab
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Abdié

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Titum 3
 - Tite 3
 - Tt 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Titum 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther, Greek 11
 - Esther, Grec 11
 - Estgrec 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther, Greek 11

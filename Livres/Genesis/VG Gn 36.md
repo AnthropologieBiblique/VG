@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 36
 - Genèse 36
 - Gn 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/36
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 36

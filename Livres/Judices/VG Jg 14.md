@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judices 14
 - Juges 14
 - Jg 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judices 14

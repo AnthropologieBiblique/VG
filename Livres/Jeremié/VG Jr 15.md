@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 15
 - Jérémie 15
 - Jr 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 15

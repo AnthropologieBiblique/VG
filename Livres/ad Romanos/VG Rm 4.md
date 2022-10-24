@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Romanos 4
 - Romains 4
 - Rm 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Romanos 4

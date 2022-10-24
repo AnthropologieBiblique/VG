@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 7
 - Tobie 7
 - Tb 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 7

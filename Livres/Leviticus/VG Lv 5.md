@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Leviticus 5
 - Lévitique 5
 - Lv 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Leviticus 5

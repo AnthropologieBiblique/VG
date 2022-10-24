@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deuteronomium 17
 - Deutéronome 17
 - Dt 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/17
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Deuteronomium 17

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 20
 - Jean 20
 - Jn 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/20
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 20

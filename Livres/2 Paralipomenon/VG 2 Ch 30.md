@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon 30
 - 2 Chroniques 30
 - 2 Ch 30
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/30
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon 30

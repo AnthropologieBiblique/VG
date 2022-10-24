@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Habacuc 1
 - Habaquq 1
 - Ha 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ha/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Habacuc 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 2
 - Néhémie 2
 - Ne 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 2

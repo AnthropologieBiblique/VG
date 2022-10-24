@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Petri 5
 - 1 Pierre 5
 - 1 P 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1P/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Petri 5

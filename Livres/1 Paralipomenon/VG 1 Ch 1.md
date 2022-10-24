@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 1
 - 1 Chroniques 1
 - 1 Ch 1
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 1

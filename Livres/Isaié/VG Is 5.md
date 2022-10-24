@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaié 5
 - Isaïe 5
 - Is 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Isaié 5

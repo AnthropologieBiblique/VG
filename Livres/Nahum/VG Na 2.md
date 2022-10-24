@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nahum 2
 - Nahum 2
 - Na 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Na/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nahum 2

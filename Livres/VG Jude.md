@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Iudé
 - Jude
 - Jude
@@ -7,6 +7,7 @@ tags :
 - Bible/Jude
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Iudé

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 21
 - Luc 21
 - Lc 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/21
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbia 5
 - Proverbes 5
 - Pr 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Proverbia 5

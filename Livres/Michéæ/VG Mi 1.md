@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michéæ 1
 - Michée 1
 - Mi 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Michéæ 1

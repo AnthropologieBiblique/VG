@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Machabéorum 14
 - 1 Maccabees 14
 - 1 M 14
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Machabéorum 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nehemié 10
 - Néhémie 10
 - Ne 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Nehemié 10

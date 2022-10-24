@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 ad Corinthios 3
 - 2 Corinthiens 3
 - 2 Co 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 ad Corinthios 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Matthéum 5
 - Matthieu 5
 - Mt 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Matthéum 5

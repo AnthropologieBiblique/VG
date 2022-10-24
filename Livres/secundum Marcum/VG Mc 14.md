@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Marcum 14
 - Marc 14
 - Mc 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Marcum 14

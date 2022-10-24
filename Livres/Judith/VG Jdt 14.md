@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 14
 - Judith 14
 - Jdt 14
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 14

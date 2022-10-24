@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Colossenses 2
 - Colossiens 2
 - Col 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Colossenses 2

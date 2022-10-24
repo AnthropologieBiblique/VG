@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Galatas 5
 - Galates 5
 - Ga 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/5
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Galatas 5

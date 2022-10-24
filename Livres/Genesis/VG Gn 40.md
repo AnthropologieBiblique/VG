@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genesis 40
 - Genèse 40
 - Gn 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/40
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Genesis 40

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther, Greek 14
 - Esther, Grec 14
 - Estgrec 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Esther, Greek 14

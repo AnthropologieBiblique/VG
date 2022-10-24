@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 3
 - Job 3
 - Jb 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job 3

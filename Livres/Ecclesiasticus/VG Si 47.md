@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 47
 - Siracide 47
 - Si 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/47
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 47

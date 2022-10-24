@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 2
 - Tobie 2
 - Tb 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/2
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 2

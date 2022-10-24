@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tobié 4
 - Tobie 4
 - Tb 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Tobié 4

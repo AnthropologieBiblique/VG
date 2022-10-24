@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 8
 - Siracide 8
 - Si 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/8
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 8

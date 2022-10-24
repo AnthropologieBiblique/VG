@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Paralipomenon
 - 2 Chroniques
 - 2 Ch
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Paralipomenon

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 18
 - Apocalypse 18
 - Ap 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/18
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 18

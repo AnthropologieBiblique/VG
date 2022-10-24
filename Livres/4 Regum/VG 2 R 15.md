@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 4 Regum 15
 - 2 Rois 15
 - 2 R 15
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/15
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 4 Regum 15

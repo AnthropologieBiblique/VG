@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ad Ephesios 3
 - Éphésiens 3
 - Ep 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # ad Ephesios 3

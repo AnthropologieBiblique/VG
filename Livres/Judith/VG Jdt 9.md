@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 9
 - Judith 9
 - Jdt 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/9
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuelis 10
 - 2 Samuel 10
 - 2 S 10
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/10
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 2 Samuelis 10

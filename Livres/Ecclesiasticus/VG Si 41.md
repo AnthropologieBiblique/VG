@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiasticus 41
 - Siracide 41
 - Si 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/41
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiasticus 41

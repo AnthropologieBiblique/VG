@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Judith 3
 - Judith 3
 - Jdt 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/3
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Judith 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuelis 14
 - 1 Samuel 14
 - 1 S 14
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/14
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Samuelis 14

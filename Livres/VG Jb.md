@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job
 - Job
 - Jb
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Job

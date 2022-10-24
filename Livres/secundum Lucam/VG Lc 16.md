@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 16
 - Luc 16
 - Lc 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Paralipomenon 13
 - 1 Chroniques 13
 - 1 Ch 13
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # 1 Paralipomenon 13

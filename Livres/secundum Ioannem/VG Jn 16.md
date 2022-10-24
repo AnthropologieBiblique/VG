@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 16
 - Jean 16
 - Jn 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/16
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 16

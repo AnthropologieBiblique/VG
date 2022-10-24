@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jeremié 42
 - Jérémie 42
 - Jr 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/42
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Jeremié 42

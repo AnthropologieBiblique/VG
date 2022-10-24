@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Lucam 4
 - Luc 4
 - Lc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/4
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Lucam 4

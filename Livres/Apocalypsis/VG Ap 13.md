@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypsis 13
 - Apocalypse 13
 - Ap 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Apocalypsis 13

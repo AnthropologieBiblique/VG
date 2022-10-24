@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - secundum Ioannem 11
 - Jean 11
 - Jn 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/11
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # secundum Ioannem 11
